@@ -1,6 +1,6 @@
 import random
 class Dice():
-  def dice():
+  def dice(self):
     dice_art = {
         1: ("┌─────────┐",
             "│         │",
